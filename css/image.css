@@ -1,0 +1,21 @@
+body{
+	background-color: lightcyan;
+	background-image: url(https://lh5.googleusercontent.com/-d9lVoZNOR6SOXRyTwagthP16VTMGftuqnOyKn9VRncA5nqyaTp1DfTEqlArsUuVENGUKugCgZxbGOlMTSZDommn9Z63vmO5d0BxLQj18oCl9y8EpBjJ24yqjY021t9hQIFg0tyf);
+background-size: 200px;
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-attachment: fixed;
+}
+p{
+	font-size: 1in;
+	color: orange;
+	background-image: url(https://media.istockphoto.com/id/1413647299/vector/sunny-autumn-background-with-leaves-and-highlights.jpg?s=612x612&w=0&k=20&c=zpElduPkLcmAHPlB2q1C0tA-Xg0m9qP2dDMigIJDD6o=);
+background-size: cover;
+}
+div{
+	width: 500px;
+	height: 500px;
+}
+.d1{
+	background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fimages&psig=AOvVaw0cm3ipUfcJqY1Ds67DCnKu&ust=1695636773330000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLClha-Bw4EDFQAAAAAdAAAAABAQ;
+}

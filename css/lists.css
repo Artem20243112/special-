@@ -1,0 +1,33 @@
+body{
+	background-color: lightgreen;
+}
+p{
+	background-color: lightseagreen;
+	color: green;
+	font-size: 50px;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+
+}
+ul,ol{
+	color: indigo;
+	font-size: 24px;
+}
+.l1 li{
+	padding-left: 10px;
+}
+.l2 li::marker{
+	color: red;
+}
+ol{
+	margin-left: 50px;
+}
+@counter-style circled-digits {
+  system: cyclic;
+  symbols: 😀 👻 👽 👾 🤖 🎃 😹 👋 👀 ;
+  suffix: " ";
+}
+
+.l3 {
+  list-style: circled-digits;
+}
